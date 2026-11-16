@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:05:20.034Z",
+  "generated_at": "2026-11-16T21:19:56.187Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -94,6 +94,17 @@
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-11-16T21:05:19.198Z",
       "last_pushed_at": "2026-11-16T21:05:19.198Z"
+    },
+    "math:412": {
+      "kind": "math",
+      "id": "412",
+      "title": "Condition Numbers: Why the Determinant Lies About Near-Singularity",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/412",
+      "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
+      "first_solved_at": "2026-11-16T21:19:55.630Z",
+      "last_pushed_at": "2026-11-16T21:19:55.630Z"
     }
   }
 }
