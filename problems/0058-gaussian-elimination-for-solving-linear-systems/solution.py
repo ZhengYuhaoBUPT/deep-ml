@@ -9,4 +9,4 @@ def gaussian_elimination(A, b):
     :return: Solution vector x
     """
     # return np.zeros_like(b)
-    return np.linalg.inv(A) @ b
+    return np.linalg.solve(A, b)
