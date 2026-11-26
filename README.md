@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 10 problems · 1 labs · 6 math
+**18** solved · 11 problems · 1 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [BPE Decode Token IDs to Text](https://www.deep-ml.com/problems/951) | easy | 2026-11-18 | [solution](problems/0951-bpe-decode-token-ids-to-text) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-04 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-11-26 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-11-18 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-11-26 | [solution](problems/0945-token-embedding-lookup-table) |
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-11-18 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
