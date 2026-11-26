@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 9 problems · 0 labs · 6 math
+**16** solved · 9 problems · 1 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-17 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-16 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Woodbury, Sherman-Morrison and the Determinant Lemma](https://www.deep-ml.com/problems/1774) | medium | 2026-11-16 | [solution](problems/1774-woodbury-sherman-morrison-and-the-determinant-lemma) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-11-26 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 
 ## Math
 
